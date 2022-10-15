@@ -1,5 +1,5 @@
 # College_work
-Assignments of python,pandas ,numpy
+Assignments of Python,pandas ,numpy
 
 copy 1 - Basics of python
 02 - Loops in python
